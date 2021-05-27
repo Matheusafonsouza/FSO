@@ -6,8 +6,7 @@ signal_mapper = {
     'SIGTERM': 15,
     'SIGINT': 2,
     'SIGUSR1': 10,
-    'SIGUSR2': 12,
-    'SIGHUP': 1
+    'SIGUSR2': 12
 }
 
 
